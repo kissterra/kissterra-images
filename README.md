@@ -4,6 +4,9 @@ kissterra-images to store images for later use them publicly
 
 ## Getting Started
 
+## Example access image from public HTML:
+```![Kissterra IDP|200](https://raw.githubusercontent.com/kissterra/kissterra-images/master/images/kissterra_idp.png)```
+
 ### Prerequisites
 
 - Docker
