@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/kissterra-images-repo.png" alt="Kissterra Images" width="100%">
+</p>
 # kissterra-images
 
 kissterra-images to store images for later use them publicly
